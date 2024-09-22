@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/00. home_page/01. contribution_guidelines.md",
+                "file": "docs/01. course_resources/04. fundamentals_of_mathematics_and_physics_&_English.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/00. home_page/01. contribution_guidelines.md",
+                "file": "docs/01. course_resources/04. fundamentals_of_mathematics_and_physics_&_English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/00. home_page/01. contribution_guidelines.md",
+                "file": "docs/01. course_resources/04. fundamentals_of_mathematics_and_physics_&_English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/00. home_page/01. contribution_guidelines.md"
+                "file": "docs/01. course_resources/04. fundamentals_of_mathematics_and_physics_&_English.md"
               }
             }
           }
@@ -168,8 +167,9 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "a13e18ed88d139d7",
+  "active": "6149791b2cd44791",
   "lastOpenFiles": [
+    "docs/00. home_page/01. contribution_guidelines.md",
     "site/00. home_page/02. submission-template/00. course_submission_template/index.html",
     "site/00. home_page/02. submission-template/00. course_submission_template",
     "site/00. home_page/01. contribution_guidelines/index.html",
@@ -180,7 +180,6 @@
     "site/01. course_resources/05. professional_basic_courses/index.html",
     "site/01. course_resources/07. professional_elective/index.html",
     "site/01. course_resources/01. experience_sharing/index.html",
-    "site/01. course_resources/06. professional_compulsory/index.html",
     "docs/01. course_resources/02. academic_plan.md",
     "site/images/favicon.png",
     "site/assets/images/favicon.png",
@@ -201,7 +200,6 @@
     "docs/03. contest/01. F&Q.md",
     "docs/index.md",
     "未命名.canvas",
-    "docs/00. home_page/01. contribution_guidelines.md",
     "docs/00. home_page/02. submission-template/00. course_submission_template.md",
     "01 计划/03 大二上.md",
     "12 其他/课程共享计划/git&github入门.md",
